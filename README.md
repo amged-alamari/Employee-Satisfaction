@@ -167,11 +167,3 @@ pip install pandas matplotlib seaborn scikit-learn
 # Step 2: Run the Python script
 python employee_performance_model.py
 ```
-
----
-
-## 👤 Author
-**Amged Alamari**  
-Baruch College — Computer Information Systems  
-LinkedIn: [linkedin.com/in/amgedalamari](https://www.linkedin.com/in/amgedalamari)
-
