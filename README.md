@@ -149,7 +149,9 @@ plt.savefig("Visuals/Top 10 Feature Importances for Predicting Performance Ratin
 ---
 
 ## 📤 Presentation File
-A PowerPoint deck summarizing the project, visuals, and insights:
+
+📄 [Performance_Rating_Project_Presentation.pptx](./Performance_Rating_Project_Presentation.pptx)
+
 ```
 📄 Performance_Rating_Project_Presentation.pptx
 ```
