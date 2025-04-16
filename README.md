@@ -20,6 +20,24 @@ Utilizing IBM’s HR Analytics dataset to uncover what influences employee perfo
 
 ---
 
+## 📁 Project Structure
+```
+IBM-Employee-Performance-Prediction/
+├── IBM-HR-Employee-Attrition.csv                 # Dataset
+├── employee_performance_model.py                 # Python model script
+├── Performance_Rating_Project_Presentation.pptx  # Final presentation
+├── README.md                                     # Project documentation
+└── Visuals/                                      # All generated visual assets
+    ├── Confusion Matrix.png
+    ├── Distribution of Performance Ratings.png
+    ├── Monthly Rate by Performance Rating.png
+    ├── MonthlyIncome by Performance Rating.png
+    ├── PriceSalaryHike by Performance Rating.png
+    └── Top 10 Feature Importances for Predicting Performance Rating.png
+```
+
+---
+
 ## 🧪 Tools & Libraries
 ```python
 import pandas as pd
@@ -127,8 +145,10 @@ plt.savefig("Visuals/Top 10 Feature Importances for Predicting Performance Ratin
 ---
 
 ## 📤 Presentation File
-- A PowerPoint deck summarizing the entire project, including visuals and conclusions, is included:  
-  📄 `Performance_Rating_Project_Presentation.pptx`
+A PowerPoint deck summarizing the project, visuals, and insights:
+```
+📄 Performance_Rating_Project_Presentation.pptx
+```
 
 ---
 
@@ -147,3 +167,11 @@ pip install pandas matplotlib seaborn scikit-learn
 # Step 2: Run the Python script
 python employee_performance_model.py
 ```
+
+---
+
+## 👤 Author
+**Amged Alamari**  
+Baruch College — Computer Information Systems  
+LinkedIn: [linkedin.com/in/amgedalamari](https://www.linkedin.com/in/amgedalamari)
+
