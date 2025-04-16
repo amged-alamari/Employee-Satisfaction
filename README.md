@@ -21,6 +21,9 @@ Utilizing IBM’s HR Analytics dataset to uncover what influences employee perfo
 ---
 
 ## 📁 Project Structure
+<details>
+<summary>Click to expand directory structure</summary>
+
 ```
 IBM-Employee-Performance-Prediction/
 ├── IBM-HR-Employee-Attrition.csv                 # Dataset
@@ -35,6 +38,7 @@ IBM-Employee-Performance-Prediction/
     ├── PriceSalaryHike by Performance Rating.png
     └── Top 10 Feature Importances for Predicting Performance Rating.png
 ```
+</details>
 
 ---
 
