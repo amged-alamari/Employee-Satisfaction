@@ -8,6 +8,7 @@ Utilizing IBM’s HR Analytics dataset to uncover what influences employee perfo
 - **Source**: [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Size**: 1470 rows × 35 columns
 - **Target Variable**: `PerformanceRating`
+- **Attribution**: This dataset was originally created by IBM and made publicly available for educational and analytical purposes via Kaggle.
 
 ---
 
@@ -15,6 +16,7 @@ Utilizing IBM’s HR Analytics dataset to uncover what influences employee perfo
 - Understand what drives employee performance ratings.
 - Visualize trends and disparities in compensation and ratings.
 - Build a predictive model to classify employee performance.
+- Present findings in a concise and visual format (PowerPoint included).
 
 ---
 
@@ -124,6 +126,12 @@ plt.savefig("Visuals/Top 10 Feature Importances for Predicting Performance Ratin
 
 ---
 
+## 📤 Presentation File
+- A PowerPoint deck summarizing the entire project, including visuals and conclusions, is included:  
+  📄 `Performance_Rating_Project_Presentation.pptx`
+
+---
+
 ## 🧠 Future Work
 - Use class balancing techniques like SMOTE or class weights.
 - Try additional models: XGBoost, Logistic Regression.
@@ -139,11 +147,3 @@ pip install pandas matplotlib seaborn scikit-learn
 # Step 2: Run the Python script
 python employee_performance_model.py
 ```
-
----
-
-## 👤 Author
-**Amged Alamari**  
-Baruch College — Computer Information Systems  
-LinkedIn: [linkedin.com/in/amgedalamari](https://www.linkedin.com/in/amgedalamari)
-
